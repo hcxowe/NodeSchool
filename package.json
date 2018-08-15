@@ -1,0 +1,23 @@
+{
+  "name": "NodeSchool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcxowe/NodeSchool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcxowe/NodeSchool/issues"
+  },
+  "homepage": "https://github.com/hcxowe/NodeSchool#readme",
+  "dependencies": {
+    "javascripting": "^2.6.1"
+  }
+}
